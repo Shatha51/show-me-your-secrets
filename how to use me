@@ -1,3 +1,7 @@
 sudo apt update
 sudo apt upgrade
-git clone
+git clone https://github.com/dura51/show-me-your-secrets.git
+cd 
+then move secrets.sh file to any path you want to see secrets in it
+chmod +x secrets.sh
+./secrets.sh
